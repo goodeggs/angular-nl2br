@@ -1,6 +1,6 @@
 {
   "name": "angular-nl2br",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An angular filter that turns new lines into line breaks",
   "author": "Good Eggs <open-source@goodeggs.com>",
   "contributors": [
