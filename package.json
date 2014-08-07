@@ -28,7 +28,7 @@
   },
   "scripts": {
     "compile": "coffee --bare --compile --output lib/ src/",
-    "test": "mocha",
+    "test": "karma start",
     "prepublish": "bower -sj install",
     "link": "browserify lib/index.js > angular-nl2br.js",
     "minify": "uglifyjs angular-nl2br.js > angular-nl2br.min.js",
