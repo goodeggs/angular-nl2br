@@ -10,10 +10,10 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/goodeggs/ng-nl2br.git"
+    "url": "git://github.com/goodeggs/angular-nl2br.git"
   },
-  "homepage": "https://github.com/goodeggs/ng-nl2br",
-  "bugs": "https://github.com/goodeggs/ng-nl2br/issues",
+  "homepage": "https://github.com/goodeggs/angular-nl2br",
+  "bugs": "https://github.com/goodeggs/angular-nl2br/issues",
   "dependencies": {},
   "devDependencies": {
     "coffee-script": ">=1.7.x",
