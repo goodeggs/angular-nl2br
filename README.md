@@ -18,6 +18,17 @@ m.controller('parrot', function($scope) {
 </div>
 ```
 
+## Installing
+
+```
+npm install angular-nl2br
+```
+or
+
+```
+bower install angular-nl2br
+```
+
 ## License
 
 [MIT](https://github.com/goodeggs/angular-nl2br/blob/master/LICENSE.md)
