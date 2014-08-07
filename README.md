@@ -1,6 +1,6 @@
 # angular nl2br
 
-[![Build Status](https://travis-ci.org/goodeggs/ng-nl2br.png)](https://travis-ci.org/goodeggs/ng-nl2br)
+[![Build Status](https://travis-ci.org/goodeggs/angular-nl2br.svg?branch=master)](https://travis-ci.org/goodeggs/angular-nl2br)
 
 An angular filter that turns new lines into line breaks
 
