@@ -8,3 +8,6 @@ describe 'angular-nl2br', ->
 
   it 'turns newlines into <br> tags', ->
     expect(nl2br('AWWWWWK!\n\nPolly want a cracker?\n\nAWWWWK!')).to.equal 'AWWWWWK!<br><br>Polly want a cracker?<br><br>AWWWWK!'
+
+  it 'does not return anything if input is undefined', ->
+    expect(nl2br(undefined)).to.equal undefined
